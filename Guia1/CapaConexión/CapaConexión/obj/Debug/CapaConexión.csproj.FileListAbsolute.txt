@@ -1,0 +1,14 @@
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\bin\Debug\CapaConexión.exe.config
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\bin\Debug\CapaConexión.exe
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\bin\Debug\CapaConexión.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.csproj.AssemblyReference.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.Form1.resources
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.Properties.Resources.resources
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.csproj.GenerateResource.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.csproj.CoreCompileInputs.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.exe
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\bin\Debug\DatosLayer.dll
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\bin\Debug\DatosLayer.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\obj\Debug\CapaConexión.csproj.CopyComplete
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\CapaConexión\bin\Debug\DatosLayer.dll.config

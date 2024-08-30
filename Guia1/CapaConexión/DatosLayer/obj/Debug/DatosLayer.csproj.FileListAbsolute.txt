@@ -1,0 +1,7 @@
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\obj\Debug\DatosLayer.pdb
+C:\Users\jccam\Desktop\Programacion II\Guia1\CapaConexión\DatosLayer\bin\Debug\DatosLayer.dll.config
